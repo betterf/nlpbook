@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding/jiebaSeg.py=utf-8
+encoding/ltpEntity\uFF08\u547D\u540D\u5B9E\u4F53\u8BC6\u522B\uFF09.py=utf-8
+encoding/ltpPOS\uFF08\u8BCD\u6027\u6807\u6CE8\uFF09.py=utf-8
+encoding/ltpParser\uFF08\u4F9D\u5B58\u53E5\u6CD5\u5206\u6790\uFF09.py=utf-8
+encoding/ltpSeg(\u5206\u8BCD).py=utf-8
+encoding/ltpSementic(\u8BED\u4E49\u89D2\u8272\u6807\u6CE8).py=utf-8
+encoding/stanford.py=utf-8
